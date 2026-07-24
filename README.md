@@ -1,4 +1,8 @@
 # AICS106
+
+
+<img width="685" height="359" alt="threathhh" src="https://github.com/user-attachments/assets/130320b7-8ecf-4e74-bb1f-bf27e65d79a7" />
+
 AICS-106: Deep Learning for Threat Detection
 Overview
 
@@ -42,3 +46,5 @@ The project aims to build a robust threat detection system capable of accurately
 Conclusion
 
 Deep learning has become a powerful tool for enhancing cybersecurity by enabling intelligent, automated detection of sophisticated attacks. This repository serves as a practical implementation of these concepts and provides a foundation for further research and development in AI-driven cybersecurity solutions.
+
+
